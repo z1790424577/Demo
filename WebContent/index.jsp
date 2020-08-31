@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-this is a test!!!!
-fsdfsfsdf
-asdasd
+this is a test
 </body>
 </html>
